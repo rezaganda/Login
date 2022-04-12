@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+// CSS nya ke-override sama line di bawah ini, jadi yang index.css gak dianggap
+// import 'bootstrap/dist/css/bootstrap.min.css'
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
